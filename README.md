@@ -10,8 +10,10 @@
 7. Use Python lists to simulate data storage
 
 ## Aim:
-A small Python/Flask backend that demonstrates a basic CRUD API for
-managing “students”.  
+Create backend server in Python (Flask).
+Create CRUD APIs/Endpoints for students 
+Store students data in an array variable in-memory only.
+Test using POSTMAN.
 
 ---
 
